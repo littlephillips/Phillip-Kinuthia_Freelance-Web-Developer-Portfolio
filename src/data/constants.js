@@ -87,11 +87,11 @@ export const PACKAGES = [
   {
     tier: "Bronze",
     label: "Starter",
-    price: "10K–15K",
+    price: "7K – 12K",
     monthly: "700",
     pages: "1–5 pages",
     revisions: "1 revision",
-    color: "#c8853a",
+    color: "#3cce14",
     bg: "rgba(200,133,58,0.08)",
     border: "rgba(200,133,58,0.3)",
     glow: "rgba(200,133,58,0.15)",
@@ -108,12 +108,12 @@ export const PACKAGES = [
   {
     tier: "Silver",
     label: "Business",
-    price: "25K",
+    price: "13K - 25k",
     monthly: "2,000",
     pages: "5–10 pages",
     revisions: "2 revisions",
-    color: "#8fa8bd",
-    bg: "rgba(143,168,189,0.08)",
+    color: "#0989f2",
+    bg: "rgba(37, 108, 165, 0.08)",
     border: "rgba(143,168,189,0.3)",
     glow: "rgba(143,168,189,0.12)",
     features: [
@@ -121,7 +121,7 @@ export const PACKAGES = [
       "Optional CRM-lite dashboard",
       "Add/edit services & products",
       "Track basic inquiries & orders",
-      "WhatsApp & Live Chat integration",
+      "WhatsApp integration",
       "Basic SEO & Google Analytics",
       "2 free revisions",
     ],
@@ -130,7 +130,7 @@ export const PACKAGES = [
   {
     tier: "Gold",
     label: "Advanced",
-    price: "50K",
+    price: "25k - 50K",
     monthly: "5,000",
     pages: "10–20 pages",
     revisions: "3 revisions",
@@ -154,11 +154,11 @@ export const PACKAGES = [
   {
     tier: "Platinum",
     label: "Enterprise",
-    price: "100K",
+    price: "50k - 100K",
     monthly: "10,000",
     pages: "20–30+ pages",
     revisions: "Unlimited",
-    color: "#b8bcdc",
+    color: "#cf08ab",
     bg: "rgba(184,188,220,0.06)",
     border: "rgba(184,188,220,0.3)",
     glow: "rgba(184,188,220,0.12)",
@@ -253,7 +253,7 @@ export const WHY = [
 ];
 
 export const STATS = [
-  ["20+", "Projects Delivered"],
+  ["7+", "Projects Delivered"],
   ["4+", "Years Experience"],
   ["100%", "Custom Code"],
   ["Kenya", "Based & Available"],
